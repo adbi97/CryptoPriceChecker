@@ -1,1 +1,1 @@
-This program gathers the current price for a crypto from CoinSpot and writes it to a file along with the date.
+This program gathers the current price for a crypto ticker from CoinSpot and writes it to a file along with the date in a CSV format. This data will later be used to make a Deep Learning model on the price of various cryptocurrencies.
